@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lauratho
+- 👋 Hi, I’m @laurthompson0
 - 👀 I’m interested in software developement, computer vision, and machine learning.
 - 🌱 I’m currently learning more about operating systems.
 - 💞️ I’m looking to collaborate on anything that catches my interest!
